@@ -63,17 +63,6 @@
         	<TextView
         		android:layout_width="fill_parent"
         		android:layout_height="wrap_content"
-        		android:text="@string/kasumi_rom_version"
-        		style="@style/kasumi_cardview_text_primary"/>
-        	<TextView
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-       			android:layout_marginBottom="12dp"
-        		android:text="@string/kasumi_rom_version_summary"
-        		style="@style/kasumi_cardview_text_secondary"/>
-        	<TextView
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
         		android:text="@string/kasumi_codename"
         		style="@style/kasumi_cardview_text_primary"/>
         	<TextView

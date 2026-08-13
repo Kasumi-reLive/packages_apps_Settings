@@ -4,9 +4,8 @@
 
     <!-- About ROM Dashboard -->
     <string name="kasumi_rom_name">ROM Adı</string>
-    <string name="kasumi_rom_version">ROM Sürümü</string>
     <string name="kasumi_codename">Kod adı</string>
-    <string name="kasumi_founder">ROM Kurucusu</string>
+    <string name="kasumi_founder">ROM yeniden canlandırıcısı</string>
     <string name="kasumi_tg_chat">Discord</string>
 
 </resources>
